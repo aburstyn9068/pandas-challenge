@@ -9,6 +9,7 @@ The code will anlyze data imported from a csv file and display the results in th
 - Gender Demographics
 - Purchasing Analysis (Gender)
 - Age Demographics
+- Purchasing Analysis (Age)
 - Top Spenders
 - Most Popular Items
 - Most Profitable Items
